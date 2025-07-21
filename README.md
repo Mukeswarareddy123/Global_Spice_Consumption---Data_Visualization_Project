@@ -44,17 +44,7 @@ The dashboard highlights:
 - ✅ **Yearly Export Comparison:** Bar chart view of export volumes by country.
 - ✅ **Interactive World Map:** Visual heatmap of spice consumption.
 - ✅ **Dynamic Filters:** Filter dashboard by year and country.
-- ✅ **Reset Button:** Easily clear filter selections.
-- ✅ **Abbreviated Country Axis (Optional):** Swap long country names with short abbreviations using calculated fields.
 
----
-
-## 🧪 How to Use
-
-1. **Open the `.twbx` file** using Tableau Desktop.
-2. Use filters on the right to select `Year` or filter by `Country`.
-3. Click **Reset Filters** to clear all applied selections.
-4. Hover over map or bars for tooltip insights.
 
 ---
 
@@ -72,13 +62,6 @@ The dashboard highlights:
 - Include economic indicators like export value.
 - Improve UI with dashboard tabs or collapsible filters.
 
----
-
-## 📥 Downloads
-
-- 📊 [Download Tableau Workbook](./Spice%20consumption%20Project.twbx)
-- 📄 [Download Report (DOCX)](./Spice_Consumption_Project_Report.docx)
-- 📷 [Dashboard Screenshot](./Screenshot.png)
 
 ---
 
